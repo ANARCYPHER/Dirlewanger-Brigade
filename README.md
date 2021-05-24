@@ -1,4 +1,4 @@
-<![Dirlewanger Brigade](https://user-images.githubusercontent.com/73909878/119238877-35139c00-bafa-11eb-8a3a-d8f2c5f854fa.png)
+
 p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
